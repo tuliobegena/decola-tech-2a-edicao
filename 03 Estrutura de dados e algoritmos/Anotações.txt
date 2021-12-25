@@ -1,0 +1,2 @@
+Módulo bastante expositivo.
+Definição de vetores e matrizes, listas, pilhas, filas, árvores, tabelas hash e grafos.

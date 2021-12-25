@@ -1,0 +1,4 @@
+Ótimas ferramentas de aprendizado que não conhecia.
+Incluindo: [flowgorithm](http://www.flowgorithm.org/index.html) e [Portugol](https://github.com/UNIVALI-LITE/Portugol-Studio/releases/)
+
+Módulo sem dificuldades (já tinha conhecimento prévio).

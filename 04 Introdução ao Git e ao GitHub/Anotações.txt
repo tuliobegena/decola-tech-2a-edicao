@@ -1,0 +1,5 @@
+Módulo introdutório ao Git e GitHub.
+
+Dificuldades iniciais: muitos conceitos e comando novos.
+
+Interessante: explicação superficial dos objetos do Git!
