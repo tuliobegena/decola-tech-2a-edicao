@@ -1,5 +1,5 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Compilation about the Bootcamp: Decola 2a edição
+# decola-tech-2a-edicao
+Repositório criado no Desafio de Projeto sobre Git/GitHub da DIO
 
 ## Links úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
