@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wDgBoUkz7zFlnlxLZ5OLl2ilKvyFJ6ybfWGqbMbfwQjxAMuMbLs2nShz3bR4Bd/YSNOsve7E4e8aeyo8u8o59A==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\decola-tech-2a-edicao\\07 Introdução ao C# e .NET\\Localiza.Frotas\\Localiza.Frotas\\Localiza.Frotas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Begena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Begena\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Begena\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Begena\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Begena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Begena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

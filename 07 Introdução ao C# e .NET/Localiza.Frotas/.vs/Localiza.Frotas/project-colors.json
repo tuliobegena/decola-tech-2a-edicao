@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46500d43-a255-4837-84cd-b776f5e26096": {
+      "ProjectGuid": "46500d43-a255-4837-84cd-b776f5e26096",
+      "DisplayName": "Localiza.Frotas",
+      "ColorIndex": 0
+    },
+    "3b573ba2-c0bb-4951-b48d-9c3f3a0e8202": {
+      "ProjectGuid": "3b573ba2-c0bb-4951-b48d-9c3f3a0e8202",
+      "DisplayName": "Localiza.Frotas.Domain",
+      "ColorIndex": 1
+    },
+    "09f79ce5-3fd2-4cf8-997c-f4ee7da88de2": {
+      "ProjectGuid": "09f79ce5-3fd2-4cf8-997c-f4ee7da88de2",
+      "DisplayName": "Localiza.Frotas.Infra",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

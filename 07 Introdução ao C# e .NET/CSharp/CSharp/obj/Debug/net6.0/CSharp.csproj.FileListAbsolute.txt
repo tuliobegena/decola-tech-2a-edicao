@@ -1,0 +1,15 @@
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\net6.0\ref\CSharp.dll
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\workspace\decola-tech-2a-edicao\07 Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache

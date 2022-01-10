@@ -1,0 +1,15 @@
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\bin\Debug\net6.0\myApp.exe
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\bin\Debug\net6.0\myApp.deps.json
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\bin\Debug\net6.0\myApp.runtimeconfig.json
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\bin\Debug\net6.0\myApp.dll
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\bin\Debug\net6.0\ref\myApp.dll
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\bin\Debug\net6.0\myApp.pdb
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.csproj.AssemblyReference.cache
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.AssemblyInfoInputs.cache
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.AssemblyInfo.cs
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.csproj.CoreCompileInputs.cache
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.dll
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\ref\myApp.dll
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.pdb
+C:\workspace\decola-tech-2a-edicao\11 Criando o ambiente de desenvolvimento\myApp\obj\Debug\net6.0\myApp.genruntimeconfig.cache

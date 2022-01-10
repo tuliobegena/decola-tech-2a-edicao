@@ -1,0 +1,15 @@
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\workspace\decola-tech-2a-edicao\12 Fundamentos de coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

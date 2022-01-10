@@ -1,0 +1,15 @@
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\bin\Debug\net6.0\Aprendendo Visual Studio.exe
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\bin\Debug\net6.0\Aprendendo Visual Studio.deps.json
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\bin\Debug\net6.0\Aprendendo Visual Studio.runtimeconfig.json
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\bin\Debug\net6.0\Aprendendo Visual Studio.dll
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\bin\Debug\net6.0\ref\Aprendendo Visual Studio.dll
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\bin\Debug\net6.0\Aprendendo Visual Studio.pdb
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.csproj.AssemblyReference.cache
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.AssemblyInfoInputs.cache
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.AssemblyInfo.cs
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.csproj.CoreCompileInputs.cache
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.dll
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\ref\Aprendendo Visual Studio.dll
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.pdb
+C:\workspace\decola-tech-2a-edicao\06 Instalação e configuração Visual Studio\Decola Tech 2a edição\Aprendendo Visual Studio\obj\Debug\net6.0\Aprendendo Visual Studio.genruntimeconfig.cache
