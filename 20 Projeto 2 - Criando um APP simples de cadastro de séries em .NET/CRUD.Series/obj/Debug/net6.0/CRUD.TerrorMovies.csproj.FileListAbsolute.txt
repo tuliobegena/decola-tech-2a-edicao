@@ -1,0 +1,15 @@
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.csproj.AssemblyReference.cache
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.AssemblyInfoInputs.cache
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.AssemblyInfo.cs
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.csproj.CoreCompileInputs.cache
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\bin\Debug\net6.0\CRUD.TerrorMovies.exe
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\bin\Debug\net6.0\CRUD.TerrorMovies.deps.json
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\bin\Debug\net6.0\CRUD.TerrorMovies.runtimeconfig.json
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\bin\Debug\net6.0\CRUD.TerrorMovies.dll
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\bin\Debug\net6.0\ref\CRUD.TerrorMovies.dll
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\bin\Debug\net6.0\CRUD.TerrorMovies.pdb
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.dll
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\ref\CRUD.TerrorMovies.dll
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.pdb
+C:\workspace\decola-tech-2a-edicao\20 Projeto 2 - Criando um APP simples de cadastro de séries em .NET\CRUD.Series\obj\Debug\net6.0\CRUD.TerrorMovies.genruntimeconfig.cache
