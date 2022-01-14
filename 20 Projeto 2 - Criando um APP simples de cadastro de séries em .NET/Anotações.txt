@@ -1,0 +1,5 @@
+App simples para cadastro de filmes de terror.
+Para o cadastro de cada filme devem ser inseridos seu título, ano de lançamento, gênero, subgênero e descrição.
+Ações simples sobre os cadastros podem ser feitas, como atualizar ou excluir um título.
+Implantado um método para confirmação de exclusão.
+As opções de subgênero são específicas para cada gênero selecionado pelo usuário.
